@@ -4,9 +4,9 @@ using namespace std;
 
 class orang {
 public:
-    string nama;
+    string nama; 
      
-    orang(string pNama) : 
+    orang(string pNama) :  
 };
 int main()
 {
