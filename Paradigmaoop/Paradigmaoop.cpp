@@ -6,7 +6,7 @@ class orang {
 public:
     string nama;
      
-    orang(string pNama) :
+    orang(string pNama) : 
 };
 int main()
 {
