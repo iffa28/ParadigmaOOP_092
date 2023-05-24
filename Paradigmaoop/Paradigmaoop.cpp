@@ -11,7 +11,7 @@ public:
         cout << "orang dibuat\n" << endl;
     }
     ~orang() {
-        cout << "orang dihapus\n" << endl;
+        cout << "orang dihapus\n" << endl; 
     }
     int jumlah(int a, int b) {
         return a + b;
