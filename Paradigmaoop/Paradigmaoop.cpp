@@ -17,6 +17,16 @@ public:
         return a + b;
     }
 };
+
+class pelajar : public orang {
+public:
+    string sekolah;
+
+    pelajar(string pNama, string pSekolah) :
+        orang(pNama) 
+};
+
+
 int main()
 {
     std::cout << "Hello World!\n";
